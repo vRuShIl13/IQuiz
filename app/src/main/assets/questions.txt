@@ -1,0 +1,5 @@
+Which one of the following is the tallest building in the world?,Burj Khalifa,Taj Mahal,Statue of Liberty,Eiffel Tower,Burj Khalifa
+Which sport involves a leg umpire and a third umpire?,Football,Cricket,Volleyball,All of the Above,Cricket
+What is the name of the person who discovered gravity?,Eistein,Jack S,I Newton,Apple,I Newton
+How many legs do dinasours have?,one,two,four,none,two
+Where is the world's largest maze located?,Toronto,Abu Dhabi,Beijing,Winnipeg,Winnipeg
